@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { MyComponent } from './components/Counter';
+import { MyComponent } from './components/CameraStream';
 
 function App() {
  
